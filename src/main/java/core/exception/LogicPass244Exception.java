@@ -1,4 +1,4 @@
-package exception;
+package core.exception;
 
 public class LogicPass244Exception extends Exception {
 

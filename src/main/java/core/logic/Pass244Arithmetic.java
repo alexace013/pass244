@@ -1,6 +1,6 @@
-package logic;
+package core.logic;
 
-import exception.LogicPass244Exception;
+import core.exception.LogicPass244Exception;
 
 public class Pass244Arithmetic {
 
